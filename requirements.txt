@@ -1,0 +1,9 @@
+flask
+python-dotenv
+openai
+requests
+waitress
+faiss-cpu
+langchain-core
+langchain-community
+langchain-openai
