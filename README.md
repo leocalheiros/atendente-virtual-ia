@@ -57,8 +57,8 @@ project_root/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/chatbotgpt.git
-   cd chatbotgpt
+   git clone https://github.com/seu-usuario/atendente-virtual-ia
+   cd atendente-virtual-ia
    ```
 
 2. **Crie e ative um ambiente virtual**:
